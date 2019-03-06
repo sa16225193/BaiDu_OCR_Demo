@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_61e7c1277f7a55787416457467aec30df49a37ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\81419331924f8e26591c65e96812bffb85b473d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a911903590327407463939a9f13f9a51c4e6a1e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e84935b958f112b031fd078755541501691ac90a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c1bed45259e8202e8aa072ce883479bcdd17e7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c27414b0aaebf138ad149373556fbac40b85a633">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ocr-sdk_903f3b20692c09c12de0cb986d37c11d932cdbb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\license_ebc2d3e688bc96bbd2581ba688d140005d22d390\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_30d1704251f7b1bac8f54abe20296173293012af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7210204d88aef7209ffbf8f8d6886fcb30bc83ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b205093ba73f743847af35a4c38abeefc25ef45d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\597f1a06cad98aebf8c9b585bbca5d5b5f30f47e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97e3e9271d18da832bd94fe0f2150875baeb266b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4fe3fed88c291c368c79088756bbbacaddfc7f89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7094cc073f6116426abb2dbb5150806184bbf12a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\480c70ab64b8082af1680b429010178c6a11ec10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b9b9743aa42ea364beee3fd904d5e5a21203eff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\66204acb771a57fd8a32ef1379fe02fe664d46e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7329b3574313bbf3995ba40cf92fa9147be1a58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b7587bc7644a4f47894b7a345e2569fc774fe258\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a14e17e0de39e1650beebe0af7682d3362cbb298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\84dff3e2d01bdc8995d5a54200ad00f34f6b41a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_173a495e9d1f7a5571352ff1dade79036d382f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2152ae22cdda118962069287527bbb201c6d4e2b">
+        <dex dex="E:\chrome downloads\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f44411adcec0e081fe4bbff0127070b1c3475089\classes.dex" />
+    </item>
+
+</items>
